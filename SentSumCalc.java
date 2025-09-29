@@ -11,7 +11,7 @@ public class SentSumCalc {
     }
 
     public static void main(String[] args) {
-        // Program repeatdly prompts the user to enter an integer
+        // Program repeatedly prompts the user to enter an integer
         System.out.println("Enter integer's to add them together!!");
         System.out.println("Enter '0' to stop and see your sum \n");
         int total = 0;
