@@ -24,7 +24,7 @@ public class NumStairs {
                                         for (int q = 0; q < 1; q++) {
                                             System.out.println(123456789);
                                             for (int r = 0; r < 1; r++) {
-                                                System.out.println(123456789 + "10"); // Integer number was to large
+                                                System.out.println(123456789 + "10"); // Integer number was too large
                                             }
                                         }
                                     }
